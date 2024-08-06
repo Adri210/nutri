@@ -1,0 +1,37 @@
+.titulo{
+  display: flex; 
+  justify-content: center;
+  padding: 10px;
+  font-size: 27px;
+}
+
+.artigo{
+  display: flex;
+ 
+}
+
+.imagem{
+  width: 30%;
+  padding: 10px;
+}
+
+.subtitulo{
+  display: flex;
+  justify-content: center;
+  padding: 5px;
+}
+
+.botao{
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 25px;
+}
+
+button{
+  background-color: rgb(129, 90, 90);
+  border: none;
+  border-radius: 9%;
+  padding: 5px;
+  color: aliceblue;
+
+}
